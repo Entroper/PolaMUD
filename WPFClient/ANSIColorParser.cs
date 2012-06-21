@@ -6,7 +6,7 @@ using System.Windows.Documents;
 using System.Text.RegularExpressions;
 using System.Windows.Media;
 
-namespace PolaMUD
+namespace MUDClientEssentials
 {
     public struct MUDTextRun
     {

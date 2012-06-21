@@ -15,7 +15,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Documents;
 
-namespace PolaMUD
+namespace MUDClientEssentials
 {
     public class MUDServerConnection
     {
